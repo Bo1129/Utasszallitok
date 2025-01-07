@@ -9,6 +9,8 @@
             {
                 repulok.Add(new Repulo(sor));
             }
+            //4. feladat
+            Console.WriteLine($"4. feladat: Adatsorok száma: {repulok.Count}");
         }
     }
 }
